@@ -46,6 +46,10 @@ The logical **RTL** codes were converted into physical silicon layouts based on 
 3. **Signoff & GDSII:** The final generated topology was examined on **KLayout**; the **Power Distribution Network** (PDN) and **Routing** layers were successfully visualized.
 
 ---
+## 🏭 The Output
+<img width="851" height="674" alt="Ekran Resmi 2026-08-19 11 36 29" src="https://github.com/user-attachments/assets/c4818235-2407-4cbc-afbd-ff263a44f1f6" />
+
+---
 
 ## 👨‍💻 Developer
 **Ömer Zelka**  
